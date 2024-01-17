@@ -16,3 +16,6 @@ Win64/
 OSX32/
 iOSSimulator/
 iOSDevice/
+/CCR.PrefsInifile.Dummy.Package.bpi
+/CCR.PrefsInifile.Dummy.Package.res
+/CCR.PrefsInifile.Dummy.Package_nonshared.a
